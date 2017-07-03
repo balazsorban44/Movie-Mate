@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Movie Mate</string>
+    <string name="title_home">Discover</string>
+    <string name="title_settings">My movies</string>
+    <string name="poster_alt">Item poster</string>
+    <string name="gradient_alt">Text gradient</string>
+    <string name="star_alt">Star icon</string>
+</resources>
